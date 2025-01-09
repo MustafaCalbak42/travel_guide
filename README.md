@@ -20,9 +20,9 @@ Harita üzerinden konum görüntüleme
 
 Daha fazla bilgi için bizimle iletişime geçin:
 
-E-posta: bilikcitalha@gmail.com
+E-posta: mcalbak123@gmail.com
 
-GitHub: talha-eren
+GitHub: MustafaCalbak42
 
 ENGLISH
 
@@ -49,9 +49,9 @@ View locations on an interactive map
 For more information, feel free to contact us:
 
 
-Email: bilikcitalha@gmail.com
+Email: mcalbak123@gmail.com
 
-GitHub: talha-eren
+GitHub: MustafaCalbak42
 
 
 
