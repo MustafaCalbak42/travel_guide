@@ -53,6 +53,7 @@ Email: mcalbak123@gmail.com
 
 GitHub: MustafaCalbak42
 
+![image alt](https://github.com/MustafaCalbak42/travel_guide/blob/e37b562b3a86811b0344572abba7ac2a1083ff0f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20200223.png)
 
 
 
